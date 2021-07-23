@@ -1,5 +1,6 @@
 #include<stdio.h>
 // Int main Function 
+// use pointer here 
 
 int main()
 {
